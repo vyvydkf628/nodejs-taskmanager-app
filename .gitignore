@@ -9,6 +9,10 @@
 #database
 /database.json
 
+#config
+config
+
+
 # Logs
 logs
 *.log
